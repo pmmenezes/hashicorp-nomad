@@ -1,0 +1,1 @@
+# Nomad Notas de estudo
